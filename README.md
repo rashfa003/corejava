@@ -1,2 +1,2 @@
 # corejava
-This is a rep
+This is a repository
