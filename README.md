@@ -1,2 +1,3 @@
 # corejava
-This is a repository
+This is a repo
+this is github demo repository
