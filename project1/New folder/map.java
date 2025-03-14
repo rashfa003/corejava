@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class map {
     public static void main(String[] args) {
-        Map<String,Integer> students = new HashMap<>();
+        Map<String,Integer> students = new HashMap<>(); 
 
         students.put("riya", 65);
         students.put("zoya", 45);
